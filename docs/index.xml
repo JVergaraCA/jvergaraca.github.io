@@ -8,20 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://jvergaraca.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post 1</title>
-      <link>https://jvergaraca.github.io/docs/post-1/</link>
+      <title>Khapto</title>
+      <link>https://jvergaraca.github.io/docs/khapto/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://jvergaraca.github.io/docs/post-1/</guid>
-      <description>Contenido de mi post 1 con Hugo</description>
+      <guid>https://jvergaraca.github.io/docs/khapto/</guid>
+      <description>Contenido sobre mi experiencia en Khapto.</description>
+    </item>
+    
+    <item>
+      <title>Klar</title>
+      <link>https://jvergaraca.github.io/docs/klar/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jvergaraca.github.io/docs/klar/</guid>
+      <description>Contenido sobre mi experiencia en Klar.</description>
+    </item>
+    
+    <item>
+      <title>Soproin</title>
+      <link>https://jvergaraca.github.io/docs/soproin/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jvergaraca.github.io/docs/soproin/</guid>
+      <description>Contenido sobre mi experiencia en Soproin.</description>
     </item>
     
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://jvergaraca.github.io/docs/ejemplo/</link>
+      <link>https://jvergaraca.github.io/docs/shortcode/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://jvergaraca.github.io/docs/ejemplo/</guid>
+      <guid>https://jvergaraca.github.io/docs/shortcode/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
